@@ -1,6 +1,5 @@
  .u-section-1 {
-  background-image: url("images/7a48aa1087dc2800b8e1facd0b5a1f08d31c8bc858952a200a0b542303257fd74866601dc27af1d96b714c80ffb72ab57f28a89982c7122609b9cd_1280.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/mockuuups-macbook-pro-mockup-with-a-notepad-and-ipad-air-at-the-side.jpeg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -9,7 +8,7 @@
 
 .u-section-1 .u-layout-wrap-1 {
   width: 649px;
-  margin: 60px 0 60px auto;
+  margin: 19px 22px 60px auto;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -94,6 +93,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
   .u-section-1 .u-sheet-1 {
     min-height: 605px;
   }
@@ -132,6 +135,7 @@
 
   .u-section-1 .u-layout-wrap-1 {
     width: 345px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-1 {
